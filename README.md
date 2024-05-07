@@ -14,7 +14,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 ```
 Developed by : SAM ISRAEL D
 Reg No       : 212222230128
-
+```
+```python
 import socket
 import threading
 
@@ -50,7 +51,7 @@ start_server()
 
 ```
 ### Client:
-```
+```python
 import socket
 
 def start_client():
